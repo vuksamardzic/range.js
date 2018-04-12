@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Small javascript lib for generating arrays.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "init": "npm i -D webpack"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vuksamardzic/range.js.git"
