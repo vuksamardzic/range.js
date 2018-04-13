@@ -1,0 +1,20 @@
+{
+  "name": "range.js",
+  "version": "1.0.0",
+  "description": "Small javascript lib for generating arrays.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuksamardzic/range.js.git"
+  },
+  "author": "Vuk Samardžić <samardzic.vuk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vuksamardzic/range.js/issues"
+  },
+  "homepage": "https://github.com/vuksamardzic/range.js#readme",
+  "devDependencies": {
+    "webpack": "^4.5.0"
+  }
+}
